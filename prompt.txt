@@ -1,0 +1,27 @@
+1. I am building a mini project in C called "2D Graphics Editor".
+
+2. I know basic C programming, functions, arrays, loops, conditions, and structures.
+
+3. Suggest any new concepts that would be useful for implementing this project and explain them briefly before using them.
+
+4. Create a text-based drawing canvas where users can draw shapes.
+
+5. Allow users to add different shapes such as Line ,Rectangle, Triangle, Circle
+
+6. Explain which algorithm is suitable for drawing lines and circles and implement them in the project.
+
+7. Use structures to store information about each shape.
+
+8. Explain how unique IDs can be used to manage multiple objects.
+
+9. Store multiple objects in an array and explain why this approach is useful.
+
+10. Provide options to Add objects, Delete objects, Modify objects, Display the drawing
+
+11. Keep the program modular by creating separate functions for different tasks and explain the purpose of each function.
+
+12. Explain any new data structures, graphics concepts, or algorithms used in the implementation.
+
+13. The code should compile using GCC and should not require any external graphics library.
+
+14. Also explain the overall workflow of the program, including which function runs first and how data flows through the project.
